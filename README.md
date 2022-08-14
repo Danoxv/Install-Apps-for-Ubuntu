@@ -68,12 +68,22 @@
 * Нажмите "Установка приложений"
 
 
+---
 #
-<div style="text-align: center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="70" height="70"/>&nbsp;
+
+### Установка npm и Node.js
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm"  width="80" height="80"/>&nbsp;
 </div>
 
-### https://telegram.org/dl/desktop/linux
-#### Распакуйте файл telegram.tar.xz
-* `sudo tar -xpf telega.tar.xz`
-* Выбирете в папке файл Telegram запустите его
+##### Обновление пакетов
+* `sudo apt update`
+##### Установка  Node js репозитория
+* `sudo apt install nodejs`
+#### Установка менеджера пакетов npm
+* `sudo apt install npm`
+#### Проверка работоспособности 
+* `nodejs -v`
+
+* `npm -v`
