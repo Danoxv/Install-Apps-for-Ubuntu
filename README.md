@@ -2,8 +2,8 @@
 #
 
 
-<div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="80" height="80"/>&nbsp;
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" style="text-align: center" title="Chrome" alt="Chrome"  width="80" height="80"/>&nbsp;
 </div>
 
 ### https://www.google.com/intl/ru_ru/chrome/ 
