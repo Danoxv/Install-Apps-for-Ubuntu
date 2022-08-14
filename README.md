@@ -6,19 +6,20 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
 </div>
 
-### Установка Chrome 💡
+### Установка Chrome
 ### https://www.google.com/intl/ru_ru/chrome/ 
 * Перейдите в папку загрузки 
 * Выберите соответсвующуюю программу 
 * Нажмите "Установка приложений"
 
 
+---
 #
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="50" height="50"/>&nbsp;
 </div>
 
-### Установка Toolbox 💡
+### Установка Toolbox
 ### https://www.jetbrains.com/ru-ru/toolbox-app/download/download-thanks.html?platform=linux 
 * Перейдите в папку загрузки 
 * Выберите соответсвующуюю программу и нажмите "Распаковать"
@@ -27,12 +28,13 @@
 * Выберите и скачайте нужное IDE
 
 
+---
 #
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="50" height="50"/>&nbsp;
 </div>
 
-### Установка Docker 💡
+### Установка Docker
 ### https://docs.docker.com/engine/install/ubuntu/
 ##### Удалить старые версии
 * `sudo apt-get remove docker docker-engine docker.io containerd runc`
@@ -58,6 +60,7 @@
 * `sudo docker run hello-world`
 
 
+---
 #
 <div>
  <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="50"/>&nbsp;
@@ -89,7 +92,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"  width="80" height="80"/>&nbsp;
 </div>
 
-### Установка PHP 💡
+### Установка PHP
 * `sudo apt update && sudo apt upgrade`
 * `sudo apt install curl wget php-common php-cli php-gd php-mysql php-curl php-intl php-mbstring php-bcmath php-imap php-xml php-zip git unzip`
 #### Проверка работоспособности
@@ -102,7 +105,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Сomposer" alt="composer"  width="80" height="80"/>&nbsp;
 </div>
 
-### Установка Composer 💡
+### Установка Composer
 * `php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"`
 * `php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a611085589f1f3ddf8b3c52d662cd01d4ba75c0ee0459970c2200a51f492d557530c71c15d8dba01eae') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"`
 * `php composer-setup.php`
