@@ -57,7 +57,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="80"/>&nbsp;
+ <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="60"/>&nbsp;
 </div>
 
 ### https://updates.insomnia.rest/downloads/ubuntu/latest?&app=com.insomnia.app&source=website
@@ -68,7 +68,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="80" height="80"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="70" height="70"/>&nbsp;
 </div>
 
 ### https://telegram.org/dl/desktop/linux
