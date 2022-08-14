@@ -3,7 +3,7 @@
 
 
 <div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="60" height="60"/>&nbsp;
 </div>
 
 ### https://www.google.com/intl/ru_ru/chrome/ 
@@ -14,7 +14,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="60" height="60"/>&nbsp;
 </div>
 
 ### https://www.jetbrains.com/ru-ru/toolbox-app/download/download-thanks.html?platform=linux 
@@ -27,7 +27,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="60" height="60"/>&nbsp;
 </div>
 
 ### https://docs.docker.com/engine/install/ubuntu/
