@@ -14,7 +14,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="80" height="80"/>&nbsp;
 </div>
 
 ### https://www.jetbrains.com/ru-ru/toolbox-app/download/download-thanks.html?platform=linux 
@@ -27,7 +27,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="80" height="80"/>&nbsp;
 </div>
 
 ### https://docs.docker.com/engine/install/ubuntu/
@@ -57,7 +57,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="50"/>&nbsp;
+ <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="80"/>&nbsp;
 </div>
 
 ### https://updates.insomnia.rest/downloads/ubuntu/latest?&app=com.insomnia.app&source=website
@@ -68,7 +68,7 @@
 
 #
 <div style="text-align: center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="60" height="60"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="80" height="80"/>&nbsp;
 </div>
 
 ### https://telegram.org/dl/desktop/linux
