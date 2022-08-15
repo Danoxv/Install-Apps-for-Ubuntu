@@ -2,7 +2,7 @@
 #
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="80" height="80"/>&nbsp;
 </div>
 
 ### Установка Chrome
@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="80" height="80"/>&nbsp;
 </div>
 
 ### Установка Toolbox
@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="80" height="80"/>&nbsp;
 </div>
 
 ### Установка Docker
