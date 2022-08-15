@@ -14,7 +14,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="Toolbox"  width="50" height="50"/>&nbsp;
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"  width="50" height="50"/>&nbsp;
 </div>
 
@@ -61,7 +61,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" alt="insomnia"  width="" height="50"/>&nbsp;
 </div>
 
@@ -74,7 +74,7 @@
 
 ---
 
-<div>
+<divalign="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="60" height="60"/>&nbsp;
 </div>
 
@@ -87,7 +87,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"  width="80" height="80"/>&nbsp;
 </div>
 
@@ -100,7 +100,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Сomposer" alt="composer"  width="80" height="80"/>&nbsp;
 </div>
 
@@ -114,7 +114,7 @@
 
 ---
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm"  width="80" height="80"/>&nbsp;
 </div>
 
