@@ -1,7 +1,7 @@
 # Установка приложений для бекенд разработки (Ubuntu)
 #
 
-<div style = "display: flex;", "width: 100%;">
+<div style = "display: flex; width: 100%;">
  <img style = "margin: 0 auto;" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
 </div>
 
