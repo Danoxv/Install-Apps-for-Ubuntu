@@ -1,7 +1,7 @@
 # Установка приложений для бекенд разработки (Ubuntu)
 #
 
-<div align="center">
+<div>
  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
 </div>
 
