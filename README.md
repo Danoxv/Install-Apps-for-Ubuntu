@@ -74,7 +74,7 @@
 
 ---
 
-<divalign="center">
+<div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20220331104809" title="Insomnia" alt="insomnia"  width="60" height="60"/>&nbsp;
 </div>
 
