@@ -1,10 +1,19 @@
 # Установка приложений для бекенд разработки (Ubuntu)
 #
 
-<div style = "display: flex; width: 100%;">
- <img style = "margin: 0 auto;" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
+<div class="container">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="50" height="50"/>&nbsp;
 </div>
 
+<style>
+ .container {
+ height: 50px;
+ width: 50px;
+  display:flex;
+  background-color: black;
+ }
+ 
+</style> 
 ### Установка Chrome
 ### https://www.google.com/intl/ru_ru/chrome/ 
 * Перейдите в папку загрузки 
